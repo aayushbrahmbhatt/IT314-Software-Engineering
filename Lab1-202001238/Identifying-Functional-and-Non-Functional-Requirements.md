@@ -65,24 +65,23 @@
 ## 2. Identify scope, features and non-functional aspects of the following problem.
 
 ### 1. Scope
-    - The application's target audience will be the 5% of the world's population who are suffering from hearing loss. 
-    - This app would be targeting such people as they are the ones for whom the app is being designed for.
-    - Optimizing the application to low latency than can be used for real time application.
+    - The 5% of people worldwide who have hearing loss will be the application's target market.
+    - As they are the ones for whom the app is being built, these individuals would be the target audience for this app.
+    - Making the programme as latency-efficient as possible so that it can be utilised for real-time applications.
     
 ### 2. Features
-    - Low latency to enable real-time use
-    - Alerts to user about the incoming sounds
-    - The sounds recorded must also be logged properly in readable format
-    - The App should alert the users when it recognizes the sounds of critical situations.
-    - When a critical emergency is recognised and there is no reaction from the user, notify friends and family.
-    - The app should run in the background also.
+    - Low latency allows for real-time use.
+    - Notifies the user of arriving noises - Properly logs the recorded audio in understandable format
+    - When the app detects the sounds of a critical scenario, it should notify the users.
+    - Alert friends and family if a critical emergency is identified and the user doesn't respond.
+    - The application must also execute in the background.
 
 ### 3. Non-Functional aspects
-    - The App should alert the user through some vibrations.
-    - When travelling, the app should be able to recommend the lanes with the least amount of traffic.
-    - Users should be able to send their current position to friends and relatives in case of an emergency via the app.
-    - Users should be able to add extra sounds, which the app must be able to identify the user.
-    - The latency of the app should be at most 2 seconds.
+    - The app needs to vibrate to notify the user.
+    - The app should be able to suggest the lanes with the least amount of traffic when you're travelling.
+    - Through the app, users should be able to notify friends and family of their present location in case of an emergency.
+    - Users should be able to add additional noises, and the app must be able to recognise the user from those sounds.
+    - The app's latency should be no more than two seconds.
     
 ----
 
