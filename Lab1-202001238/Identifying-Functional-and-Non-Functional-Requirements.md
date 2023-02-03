@@ -1,12 +1,26 @@
 # <pre>                  IT314 - Software Engineering - Lab 1 </pre>
 
-#### Name       : Aayush Brahmbhatt
+#### Name       : Aayush Brahmbhatti
 #### StudentID  : 202001238
 #### Date       : 03-02-2023
 
 ----
 ## Objective:
     Identifying Functional and Non-Functional Requirements
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#functional-requirements">Functional Requirements</a>
+      </li>
+    <li>
+      <a href="#non-functional-requirements">Non-Functional Requirements</a>
+      </li>
+  </ol>
+</details>
+
+
 
 ----
 ## 1. Identify FRs and NFRs
@@ -38,7 +52,7 @@
 
     8. The student or employee may view every book that was on the library's shelves. Additionally, the user should be able to quickly find the book that they need, and there should be search button
     
-### Non-Functional Requirements
+### Non Functional Requirements
     
     1. Authentication - The user login must be authorised and validated by the system before returning the book.
 
