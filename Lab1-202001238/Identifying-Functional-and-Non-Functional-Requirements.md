@@ -1,7 +1,8 @@
-# <pre>                  IT314 - Software Engineering - Lab 1 </pre>
+# $$\mathcal{\textcolor{yellow}{IT314-Software-Engineering-Lab-1}}$$
 
-#### Name       : Aayush Brahmbhatti
-#### StudentID  : 202001238
+#### Name : Aayush Brahmbhatt
+#### ID: 202001238
+
 #### Date       : 03-02-2023
 
 ----
